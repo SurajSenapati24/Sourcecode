@@ -43,5 +43,6 @@
 | [jatinn-sw](https://github.com/jatinn-sw)| 
 | [mintera10](https://github.com/mintera10)|
 | [Chaanakyaa Milkuri](https://github.com/chaanakyaaM)|
+| [Suraj Senapati](https://github.com/SurajSenapati24)|
  
  
